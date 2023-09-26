@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codynolf
-- 👀 I’m interested in ... Sports, Software Development and Precision Agriculture
+- 👀 I’m interested in ... Sports, Software Development, Web3 on Tezos and Precision Agriculture
 - 🌱 I’m currently learning ... Scala, Flink, Akka and Geomesa
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
